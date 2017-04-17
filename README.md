@@ -2,7 +2,7 @@
 
 US Traffic Data Visualization using Tableau BI tool. 
 
-The data is taken from the [Federal Highway Administration website](https://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm).
+The data is taken from the [US Federal Highway Administration website](https://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm).
 
 You can interact with the dashboard from [here](https://public.tableau.com/profile/aniruddha.tapas#!/vizhome/FinalProject-USTrafficStory/USTrafficAnalysis).
 
